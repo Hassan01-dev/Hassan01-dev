@@ -1,67 +1,99 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&height=50&lines=Senior+Software+Engineer;Full+Stack+Development;Performance+Optimization" alt="Typing Code Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C033C&center=true&vCenter=true&width=560&height=50&lines=Senior+Full+Stack+Engineer;Ruby+on+Rails+%7C+React+%7C+Node.js;5+Years+Building+Production+Systems" alt="Typing SVG" />
 </div>
 
-# Hassan Raza
+<br />
 
-Full Stack Engineer with 5 years of experience building scalable, high-performance web applications. I specialize in designing and developing modern web platforms with a strong focus on performance, scalability, and user experience. 
+<div align="center">
+  <a href="mailto:hassanraza01.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hassanraza01.dev%40gmail.com-1C033C?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/hassan-dev01">
+    <img src="https://img.shields.io/badge/LinkedIn-hassan--dev01-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hassan01-dev">
+    <img src="https://img.shields.io/badge/GitHub-Hassan01--dev-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</div>
 
-Currently, I work as a Senior Software Engineer where I enjoy turning complex problems into clean, maintainable, and reliable solutions across both frontend and backend architectures.
+<br />
 
 ---
 
-## Technical Expertise
+## About Me
+
+Full Stack Engineer with 5 years of experience building and shipping web applications across the entire stack. I've worked on property management platforms, B2B SaaS tools, municipal kiosk systems, and everything in between.
+
+Most recently at **HappyTenant** (Dubai), where I led a team of engineers and built large parts of the product from scratch - payments, email, reporting, infra. Before that, 3 years at **Devsinc** working across multiple client projects in Rails, React, and Node.js.
+
+I care about code that's readable, systems that hold up under load, and shipping things that actually work.
+
+---
+
+## Tech Stack
 
 **Backend**
-- Ruby, Ruby on Rails, Sinatra
-- Node.js, Express
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-1C033C?style=flat-square&logoColor=white)
 
 **Frontend**
-- React, Next.js
-- JavaScript, TypeScript
-- Redux, Tailwind CSS, Hotwire, Stimulus
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Databases**
-- PostgreSQL, MySQL, MongoDB, Redis
 
-**Cloud & Infrastructure**
-- AWS (EC2, S3, Lambda, RDS, CloudWatch)
-- Docker, Ansible
-- GitHub Actions, CircleCI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Testing & Observability**
-- RSpec, Jest, Cypress
-- Elasticsearch, Apache Superset
-- Git, Postman
+**Cloud & DevOps**
 
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-## Featured Work
+**Testing**
 
-- Architected and delivered scalable CRM systems from the ground up
-- Developed full-featured email systems integrating SMTP/IMAP
-- Built robust AI-powered reporting and analytics dashboards
-- Implemented reusable Role-Based Access Control (RBAC) modules for secure applications
-- Engineered seamless payment integrations (Stripe, Direct Debit)
-- Designed dynamic image processing and watermarking solutions
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=flat-square&logo=ruby&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 ---
 
-## Core Principles
+## Selected Projects
 
-- Writing clean, maintainable, and testable base code
-- Architecting scalable and fault-tolerant distributed systems
-- Delivering high-impact features through effective cross-functional collaboration
-- Continuously iterating on system performance and team workflows
-
----
-
-## Contact & Links
-
-- Email: hassanraza01.dev@gmail.com  
-- LinkedIn: [linkedin.com/in/hassan-dev01](https://linkedin.com/in/hassan-dev01)  
-- GitHub: [github.com/Hassan01-dev](https://github.com/Hassan01-dev)  
+| Project | What it is |
+|---|---|
+| **HappyTenant** | Property management CRM - Rails/Node.js backend, React/Next.js frontend. Payments, IMAP/SMTP email, AI reporting, image watermarking. 5,000+ active users. |
+| **Includrs** | B2B workplace diversity SaaS. Real-time chat (Socket.io), Chart.js analytics, Redux, Google/LinkedIn OAuth. 2,000+ concurrent users. |
+| **Transportation Kiosk Platform** | City-wide kiosk management system. Rails core, Sinatra REST API for remote machine control, Elasticsearch metrics, AWS Lambda image processing. 100+ kiosks. |
+| **RBAC Rails Engine** | Reusable Role-Based Access Control system as a standalone Rails Engine. Deployed across 3 separate microservices. |
+| **Ansible Infra Automation** | Automated OS setup, dependency installation, and server provisioning. Cut setup time from 4 hours to under 20 minutes per node. |
 
 ---
 
-*Always open to interesting projects, collaborations, and opportunities.*
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hassan01-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan01-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+*Open to interesting projects and opportunities - feel free to reach out.*
