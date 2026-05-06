@@ -1,34 +1,39 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C033C&center=true&vCenter=true&width=560&height=50&lines=Senior+Full+Stack+Engineer;Ruby+on+Rails+%7C+React+%7C+Node.js;5+Years+Building+Production+Systems" alt="Typing SVG" />
-</div>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1C033C&center=false&vCenter=true&width=480&height=50&lines=Senior+Full+Stack+Engineer;Ruby+on+Rails+%7C+React+%7C+Node.js;5+Years+Building+Production+Systems" alt="Typing SVG" />
 
-<div align="center">
-  <a href="mailto:hassanraza01.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hassanraza01.dev%40gmail.com-1C033C?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/hassan-dev01">
-    <img src="https://img.shields.io/badge/LinkedIn-hassan--dev01-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hassan01-dev">
-    <img src="https://img.shields.io/badge/GitHub-Hassan01--dev-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
----
-
-## About Me
+### Hassan Raza
 
 Full Stack Engineer with 5 years of experience building and shipping web applications across the entire stack. I've worked on property management platforms, B2B SaaS tools, municipal kiosk systems, and everything in between.
 
 Most recently at **HappyTenant** (Dubai), where I led a team of engineers and built large parts of the product from scratch - payments, email, reporting, infra. Before that, 3 years at **Devsinc** working across multiple client projects in Rails, React, and Node.js.
 
 I care about code that's readable, systems that hold up under load, and shipping things that actually work.
+
+<br />
+
+<a href="mailto:hassanraza01.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1C033C?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/hassan-dev01">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/hassan-dev01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td valign="center" width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,20 +88,6 @@ I care about code that's readable, systems that hold up under load, and shipping
 | **Transportation Kiosk Platform** | City-wide kiosk management system. Rails core, Sinatra REST API for remote machine control, Elasticsearch metrics, AWS Lambda image processing. 100+ kiosks. |
 | **RBAC Rails Engine** | Reusable Role-Based Access Control system as a standalone Rails Engine. Deployed across 3 separate microservices. |
 | **Ansible Infra Automation** | Automated OS setup, dependency installation, and server provisioning. Cut setup time from 4 hours to under 20 minutes per node. |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hassan-dev01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-dev01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
 ---
 
