@@ -89,9 +89,13 @@ I care about code that's readable, systems that hold up under load, and shipping
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hassan01-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan01-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com?user=hassan-dev01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-dev01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
